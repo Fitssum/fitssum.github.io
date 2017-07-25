@@ -1,7 +1,7 @@
 
 $(function(){
   $(window).scroll(function(){
-    if ($(this).scrollTop() > 200) {
+    if ($(this).scrollTop() > 300) {
       $('.header').addClass('header--sticky');
       $('body').addClass('is-scrolling');
     }
