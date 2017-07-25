@@ -32,17 +32,19 @@ h2 {
 
 h3 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.333;
-  text-decoration: underline;
 }
 
 p {
-  margin-bottom: 1rem;
+  font-family: $SourceSans;
+  text-align: justify;
 }
 
 a {
   color: $link;
+  font-family: $SourceSans;
+  font-weight: 600;
 }
 
 .white {color: white}

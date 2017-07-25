@@ -77,15 +77,17 @@ h2 {
 
 h3 {
   font-size: 1.5rem;
-  font-weight: 700;
-  line-height: 1.333;
-  text-decoration: underline; }
+  font-weight: 500;
+  line-height: 1.333; }
 
 p {
-  margin-bottom: 1rem; }
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  text-align: justify; }
 
 a {
-  color: #e87345; }
+  color: #e87345;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 600; }
 
 .white {
   color: white; }
@@ -407,6 +409,16 @@ a {
   .header--sticky .header__title {
     display: block; }
 
+span {
+  font-size: 2rem;
+  color: #B6AFAF;
+  font-weight: normal; }
+
+.hero__description {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  float: left;
+  overflow: auto; }
+
 #contact-me {
   display: block;
   padding: 1rem 0;
@@ -433,7 +445,11 @@ a {
   margin: 0 auto; }
 
 .profPic {
-  border-radius: 50%; }
+  border-radius: 50%;
+  width: 13rem;
+  height: 13rem;
+  margin-left: auto;
+  margin-right: 2rem; }
 
 .portfolio-piece {
   padding: 2em;
@@ -450,20 +466,17 @@ a {
   animation: down-bump 0.4s ease; }
 
 .portfolio-piece p {
-  font-family: "Lora", serif; }
+  font-family: "Source Sans Pro", Helvetica, sans-serif; }
 
 .portfolio-piece h3 {
-  font: 0.8em "Lucida Grande", serif; }
+  font-family: "Source Sans Pro", Helvetica, sans-serif; }
 
 .portfolio-piece:hover {
   background-position: 100% 100%;
   animation: up-bump 0.4s ease; }
 
 .portfolio-piece:hover p {
-  color: #48ad26; }
-
-.portfolio-piece:hover p span {
-  color: white; }
+  color: #e87345; }
 
 .portfolio-piece:hover h3 {
   color: #999; }

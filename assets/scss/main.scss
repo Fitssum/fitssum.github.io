@@ -51,6 +51,18 @@
   }
 }
 
+span {
+  font-size: 2rem;
+  color: #B6AFAF;
+  font-weight: normal;
+}
+
+.hero__description {
+  font-family: $SourceSans;
+  float: left;
+  overflow: auto;
+}
+
 #contact-me {
   display:block;
   padding: 1rem 0;
@@ -88,6 +100,10 @@
 }
 .profPic {
   border-radius: 50%;
+  width: 13rem;
+  height: 13rem;
+  margin-left: auto;
+  margin-right: 2rem;
 }
 .portfolio-piece {
   padding: 2em;
@@ -106,10 +122,10 @@
   animation: down-bump 0.4s ease;
 }
 .portfolio-piece p {
-  font-family: $Lora;
+  font-family: $SourceSans;
 }
 .portfolio-piece h3 {
-  font: 0.8em "Lucida Grande", serif;
+  font-family: $SourceSans;
 }
 
 .portfolio-piece:hover {
@@ -117,10 +133,7 @@
   animation: up-bump 0.4s ease;
 }
 .portfolio-piece:hover p {
-  color: #48ad26;
-}
-.portfolio-piece:hover p span {
-  color: white;
+  color: $link;
 }
 .portfolio-piece:hover h3 {
   color: #999;
