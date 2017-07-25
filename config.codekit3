@@ -36,17 +36,6 @@
 		"oAP": "\/assets\/img\/resume.pdf",
 		"oF": 0
 		},
-	"\/assets\/img\/Skills.png": {
-		"ft": 32768,
-		"iS": 43167,
-		"oA": 0,
-		"oAP": "\/assets\/img\/Skills.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/assets\/js\/main-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -174,7 +163,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 521346808,
-	"displayValue": "Profile",
+	"displayValue": "fitssum.github.io",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kahn"
 	},
