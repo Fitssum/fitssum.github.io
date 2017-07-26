@@ -82,13 +82,13 @@ h3 {
 
 p {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  text-align: justify;
-  text-decoration: inherit; }
+  text-align: justify; }
 
 a {
   color: #e87345;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-weight: 600; }
+  font-weight: 600;
+  text-decoration: none; }
 
 .white {
   color: white; }
