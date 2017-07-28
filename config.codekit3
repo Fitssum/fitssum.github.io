@@ -30,6 +30,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/profile.png": {
+		"ft": 32768,
+		"iS": 496051,
+		"oA": 0,
+		"oAP": "\/assets\/img\/profile.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/resume.pdf": {
 		"ft": 8192,
 		"oA": 2,
