@@ -420,7 +420,8 @@ a {
   float: left;
   overflow: auto;
   font-size: 1.5rem;
-  text-align: left; }
+  text-align: left;
+  padding-bottom: 30px; }
 
 #contact-me {
   display: block;
