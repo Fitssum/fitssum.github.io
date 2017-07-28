@@ -413,12 +413,14 @@ a {
 .position {
   font-size: 2rem;
   color: #B6AFAF;
-  font-weight: normal; }
+  font-weight: 450; }
 
 .hero__description {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   float: left;
-  overflow: auto; }
+  overflow: auto;
+  font-size: 1.5rem;
+  text-align: left; }
 
 #contact-me {
   display: block;
@@ -482,6 +484,13 @@ a {
 .portfolio-piece:hover h3 {
   color: #999; }
 
+.skill {
+  padding-bottom: 50px; }
+
+.skills {
+  font-weight: bold;
+  color: #e87345; }
+
 .sourceCode {
   background-color: transparent;
   border: 1px solid white;
@@ -505,7 +514,8 @@ a {
 .portfolio-piece__tags {
   padding-bottom: 80px;
   font-weight: bold;
-  color: #e87345; }
+  color: #e87345;
+  text-align: left; }
 
 span {
   color: white; }
