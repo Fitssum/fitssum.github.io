@@ -29,10 +29,10 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/assets\/img\/cv": {
+	"\/assets\/img\/cv.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/img\/cv",
+		"oAP": "\/assets\/img\/cv.pdf",
 		"oF": 0
 		},
 	"\/assets\/img\/portfolio.png": {
@@ -169,12 +169,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
-		"oF": 0
-		},
-	"\/README.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
