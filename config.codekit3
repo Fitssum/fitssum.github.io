@@ -29,6 +29,12 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/img\/cv": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/img\/cv",
+		"oF": 0
+		},
 	"\/assets\/img\/portfolio.png": {
 		"ft": 32768,
 		"iS": 150544,
