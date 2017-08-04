@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/assets\/css\/main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -41,10 +51,16 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/resume.pdf": {
+	"\/assets\/img\/Untitled 2.sketch": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/img\/resume.pdf",
+		"oAP": "\/assets\/img\/Untitled 2.sketch",
+		"oF": 0
+		},
+	"\/assets\/img\/Untitled.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/img\/Untitled.sketch",
 		"oF": 0
 		},
 	"\/assets\/js\/main-min.js": {
@@ -129,16 +145,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/assets\/scss\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/scss\/main-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/assets\/scss\/main.scss": {
 		"aP": 0,

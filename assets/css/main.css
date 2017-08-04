@@ -107,7 +107,7 @@ a {
     background: #e87345;
     margin-right: .5rem; }
 
-@media only screen and (min-widthh: 60rem) {
+@media only screen and (min-width: 60rem) {
   h1 {
     font-size: 3rem; } }
 
@@ -131,7 +131,7 @@ a {
   @media only screen and (min-width: 48rem) {
     .row--spaced {
       margin-bottom: 4rem; } }
-  @media only screen and (min-widthh: 60rem) {
+  @media only screen and (min-width: 60rem) {
     .row--spaced {
       margin-bottom: 6rem; } }
 
@@ -206,7 +206,7 @@ a {
     padding: 0 1rem;
     margin-left: 12.5%; } }
 
-@media only screen and (min-widthh: 60rem) {
+@media only screen and (min-width: 60rem) {
   .lrg--col-12 {
     padding: 0 1rem;
     flex: 0 0 100%;
@@ -292,7 +292,7 @@ a {
     padding: 0 1rem;
     margin-left: 8.333% !important; } }
 
-@media only screen and (min-widthh: 60rem) {
+@media only screen and (min-width: 60rem) {
   .xlrg--col-12 {
     padding: 0 1rem;
     flex: 0 0 100%;
@@ -551,6 +551,8 @@ span {
     width: 18rem; }
 
 .button {
+  position: fixed;
+  display: block;
   color: white;
   background: #e87345;
   box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16), 0px 3px 6px 0px rgba(0, 0, 0, 0.23);
