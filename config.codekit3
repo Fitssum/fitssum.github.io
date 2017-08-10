@@ -9,16 +9,6 @@
 	],
 "creatorBuild": "25849",
 "files": {
-	"\/assets\/css\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/main-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -45,29 +35,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/assets\/img\/profile.png": {
-		"ft": 32768,
-		"iS": 496051,
-		"oA": 0,
-		"oAP": "\/assets\/img\/profile.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/Untitled 2.sketch": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/Untitled 2.sketch",
-		"oF": 0
-		},
-	"\/assets\/img\/Untitled.sketch": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/Untitled.sketch",
-		"oF": 0
 		},
 	"\/assets\/js\/main-min.js": {
 		"ft": 64,
