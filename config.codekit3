@@ -19,12 +19,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/assets\/img\/cv.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/cv.pdf",
-		"oF": 0
-		},
 	"\/assets\/img\/portfolio.png": {
 		"ft": 32768,
 		"iS": 150544,
@@ -35,6 +29,12 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/img\/Resume.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/img\/Resume.pdf",
+		"oF": 0
 		},
 	"\/assets\/js\/main-min.js": {
 		"ft": 64,
