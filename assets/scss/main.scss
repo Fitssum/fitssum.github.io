@@ -229,6 +229,9 @@ span {
     font-size: 1.5rem;
     color: white;
     transition: all .25s ease-in-out;
+    &:hover {
+    color: $link;
+    }
   }
 
   &:hover {color: $link;}

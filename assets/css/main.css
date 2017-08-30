@@ -570,6 +570,8 @@ span {
     font-size: 1.5rem;
     color: white;
     transition: all .25s ease-in-out; }
+    .social__button:hover {
+      color: #e87345; }
   .social:hover {
     color: #e87345; }
 
